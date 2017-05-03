@@ -1,6 +1,6 @@
 # Creates pseudo distributed hadoop 2.6.0 on Ubuntu 14.04
 #
-# docker build -t sequenceiq/hadoop-ubuntu:2.6.0 .
+# Source: sequenceiq/hadoop-ubuntu:2.6.0
 
 FROM library/ubuntu-16.04
 MAINTAINER vaidyasm
