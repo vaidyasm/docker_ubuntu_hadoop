@@ -2,7 +2,7 @@
 #
 # Source: sequenceiq/hadoop-ubuntu:2.6.0
 
-FROM library/ubuntu-16.04
+FROM library/ubuntu:16.04
 MAINTAINER vaidyasm
 
 USER root
