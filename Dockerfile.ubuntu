@@ -1,4 +1,4 @@
-# Creates pseudo distributed hadoop 2.6.0 on Ubuntu 14.04
+# Creates pseudo distributed hadoop 2.6.0 on Ubuntu 16.04
 #
 # Source: sequenceiq/hadoop-ubuntu:2.6.0
 
